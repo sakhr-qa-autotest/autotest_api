@@ -118,7 +118,7 @@ rm -rf allure-results
 
 <a name="запуск_дженкинс"></a>
 
-# Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/sakhr_autotest_ui/)
+# Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/sakhr_autotest_api/)
 
 <details>
 <summary>Jenkins</summary>
@@ -131,7 +131,7 @@ rm -rf allure-results
 
 <a name="report"></a>
 
-# [Отчет](https://jenkins.autotests.cloud/job/sakhr_autotest_ui/8/allure/#) о выполнении тестов
+# [Отчет](https://jenkins.autotests.cloud/job/sakhr_autotest_api/#) о выполнении тестов
 
 <details>
 <summary>AllureReport</summary>
